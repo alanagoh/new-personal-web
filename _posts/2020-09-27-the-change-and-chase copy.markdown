@@ -15,6 +15,9 @@ _Post status_: `Incomplete`
 _Epistemic status_: `High confidence` of my own experience; `Mid-low confidence` of everything else as I've not really let this sit or thoroughly edited my thoughts. 
 - - - -
 
+<!--more-->
+
+
 One of the topic in the early chapters of the book is about how the world is changing at a rapid pace. (Indeed the world has changed into something quite unthinkable just 8 to 9 months ago.) The change AND pace of change in technologies are contributing to our anxiety. Social media. Automation. Our impact on the environment. The news cycle. What have you. 
 
 Technology in the most basic sense means tools or methods. The way of doing things. This may seem quite obvious, but in my head, using tech has just alluded to the Internet, smartphones, smart gadgets and apps etc. Something digital and forward. But technology simply means the tools we use to get things done. It’s what we use to obtain our basic needs, and not so basic needs. Food. Social connections. Physical safety. Whoever learns to leverage on better technology to create value for others in ways they can’t do it themselves would then be able to demand value in exchange for it. 

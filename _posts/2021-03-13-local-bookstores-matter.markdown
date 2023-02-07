@@ -10,6 +10,8 @@ This became surprisingly long, but if you’re interested to hear about my memor
 
 I realised I’ve not written about my 2017/18 bookstore days, and I thought I should before memories get murkier as years catch on.
 
+<!--more-->
+
 # my dream of becoming a bookseller
 Some friends and colleagues may know - I have a dream of becoming a bookseller one day. This dream came about as a bookish teenager who loved to spend time in the public library looking for more fiction to devour during the school holidays. This love for reading was instilled in me when my parents regularly brought me to the library, Popular bookstores, and MPH warehouse book sales to pick up a handful of books at a time.
 

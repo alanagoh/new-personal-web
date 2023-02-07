@@ -14,6 +14,7 @@ _Post status_: `Incomplete`; I'd like to revisit this again to update my thought
 
 _Epistemic status_: `High confidence` of my own experience
 - - - -
+<!--more-->
 
 # what burnout looks like to me 
 Being burnt out is like a candle which has fizzled out. Working no longer feels exciting or motivating. The default is going through the motion of getting by day to day. There’s a final stage I’ve felt once in university, where my body has no way of feeling rested even after 8 or 10 hours of sleep each night, and I’m feeling tired by late evening at 6 pm or earlier. A kind of tired that sleep can no longer remedy. 

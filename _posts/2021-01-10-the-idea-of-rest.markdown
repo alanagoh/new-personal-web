@@ -8,6 +8,8 @@ tags: [mental health, healing journey]
 
 What is rest? 
 
+<!--more-->
+
 I can clock 9-10 hours of sleep on some nights after a mentally draining day, but those hours may not translate into feeling rested in the morning. Sleep is the only time when I feel justified not ‘doing’ anything - it’s just a blank, unless I remember my vivid dreams. In my usual waking hours, I feel the need to be doing something, listening to something, reading something, fiddling with something, just getting something done. But maybe more hours sleeping doesn’t necessarily mean more rest. 
 
 What’s a restful state then?  Getting into the flow with activities that I enjoy? I don’t know. Still figuring out how to rest and do nothing. 
