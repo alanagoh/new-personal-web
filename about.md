@@ -4,7 +4,7 @@ title: About
 description: An about page
 ---
 
-**Hello!** You've stumbled upon my little corner of the web where I post mainly Year in Reviews to keep track of life. 
+**Hello!** You've stumbled upon my little corner of the web where I post mainly Year in Reviews to keep track of life.  
 
 
 My all-time favourite quote that I come back to repeatedly: 
