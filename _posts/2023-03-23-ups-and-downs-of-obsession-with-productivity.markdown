@@ -24,6 +24,7 @@ Here we go!
 <!--more-->
 
 **The origin story of falling into this rabbit hole** 
+
 Sometime in 2018 or 2019, I first stumbled on the topic of personal knowledge management and productivity hacks. I was hooked on becoming more efficient with time, and doing more with the amount of reading I do. I was geeking out on the templates of databases and shiny new tools discovered. Following the productivity guides of notable figures like Marie Poulin, Tiago Forte, and Ali Abdaal got me really excited to build this whole elaborate system so that I can be a better reader and writer. 
 
 Me discovering Zettelkasten, the system of creating interconnected notes to make a web of knowledge: 
@@ -45,6 +46,7 @@ I was fully absorbed in my new role as a junior product manager because I was ba
 I lost the motivation to keep up with the system that I’d was so excited to set up. Another cycle of [burnout](https://alanagoh.com/on-burnout) happened and I could not make myself do more. I stopped looking at productivity YouTube and retreated into the world of emotional regulation and healing, and started filling my time with activities that takes me out of my head and into my body. Naturally, the templates and databases of books to read, book summaries, resources and highlights were left to collect digital dust in my Notion account and I did not make use of them even as I continue to consume content rather mindlessly.  
 
 **v2.0** 
+
 The value I found in setting up processes did not rest, it tagged along with my work as I worked with different project teams at my role. I realised that researching on and experimenting with best practices of product processes was a type of work that gave me energy even if it was not the core work I was required to do. 
 
 Turns out I’m highly motivated by structured, as shown by my Luxx profile: 
